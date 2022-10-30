@@ -213,6 +213,7 @@ github repo
 ## Authors
 
 * Braddon, [braddonr](https://github.com/braddonr)
+* Christabell Owusu, [Berla](https://github.com/Berl-lin)
 
 
 ## License
